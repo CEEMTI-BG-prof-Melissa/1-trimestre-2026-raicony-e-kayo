@@ -5,4 +5,7 @@ font-size:16px;
 body{
 background-color:black;
 }
-
+ul{
+  color:yellow;
+  font-size:14px;
+}
